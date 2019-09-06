@@ -1,0 +1,23 @@
+# Build Folder
+build
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+coverage
+.lock-wscript
+node_modules
+
+# OS X
+.DS_STORE
+.idea
+.awcache
+.env
+.node_repl_history
+.npm
+.nyc_output
+
+lib
+dist
